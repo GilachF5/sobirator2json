@@ -1,0 +1,13 @@
+﻿{
+    "id":  "d4e4vojdhckor1ftecls",
+    "folder_id":  "b1gnufc37haf3rrd9ion",
+    "created_at":  "2025-08-01T13:02:52.692Z",
+    "name":  "sobirator2json",
+    "description":  "Скрипт обмена данными между несколькими Google Sheest, скриптовый аналог Importrange(). ",
+    "labels":  {
+                   "author":  "gilach"
+               },
+    "http_invoke_url":  "https://functions.yandexcloud.net/d4e4vojdhckor1ftecls",
+    "status":  "ACTIVE",
+    "folder_name":  "sl"
+}
